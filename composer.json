@@ -1,0 +1,22 @@
+{
+    "name": "macroman/rate-limiter",
+    "description": "General framework agnostic rate limiter",
+    "type": "library",
+    "homepage": "https://github.com/MacroMan/rate-limiter",
+    "license": "GNU GPLv3",
+    "authors": [
+        {
+            "name": "David Wakelin",
+            "email": "hello@davidwakelin.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "RateLimiter": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
