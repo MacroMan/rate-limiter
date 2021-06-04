@@ -3,7 +3,7 @@
     "description": "General framework agnostic rate limiter",
     "type": "library",
     "homepage": "https://github.com/MacroMan/rate-limiter",
-    "license": "GNU GPLv3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "David Wakelin",
