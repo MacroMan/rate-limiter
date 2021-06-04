@@ -5,7 +5,7 @@ namespace RateLimiter;
 /**
  * Class RateLimiter
  *
- * @package App\Components
+ * @package RateLimiter\Limiter
  */
 class Limiter
 {
