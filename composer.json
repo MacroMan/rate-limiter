@@ -1,7 +1,7 @@
 {
     "name": "macroman/rate-limiter",
     "description": "General framework agnostic rate limiter",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "type": "library",
     "homepage": "https://github.com/MacroMan/rate-limiter",
     "license": "GPL-3.0-or-later",

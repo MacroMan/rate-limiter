@@ -52,7 +52,7 @@ class Limiter
 
         if (!$this->is_free()) {
             $wait_duration = $this->duration_until_free();
-            usleep($wait_duration);
+            usleep(ceil($wait_duration));
         }
     }
 
